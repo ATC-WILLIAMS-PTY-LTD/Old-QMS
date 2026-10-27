@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/QMS.Functions/QMS.Functions.csproj" />
+    <Project Path="src/QMS.Importer/QMS.Importer.csproj" />
+  </Folder>
+</Solution>
